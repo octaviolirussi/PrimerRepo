@@ -1,0 +1,31 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #4CAF50; /* Color de fondo verde */
+    color: white;              /* Color del texto */
+    padding: 20px;            /* Espaciado interno */
+    text-align: center;       /* Centrar el texto */
+}
+
+/* Contenido del body */
+main {
+    padding: 20px;            /* Espaciado interno */
+    background-color: #f4f4f4; /* Color de fondo claro */
+}
+
+/* Footer */
+footer {
+    background-color: #333;   /* Color de fondo oscuro */
+    color: white;             /* Color del texto */
+    text-align: center;       /* Centrar el texto */
+    padding: 10px;           /* Espaciado interno */
+    position: relative;       /* Asegura que el footer esté en la parte inferior */
+    bottom: 0;
+    width: 100%;              /* Ancho completo */
+}
